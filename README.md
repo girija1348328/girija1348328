@@ -1,5 +1,3 @@
-### Hola,I'm Girija Sankar 👋
-
 Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> My name is Girija
 ===========================
 
