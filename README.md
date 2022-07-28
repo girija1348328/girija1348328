@@ -6,8 +6,8 @@ Software Developer Engineer
 ![](https://komarev.com/ghpvc/?username=girija1348328-01&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 
-- 🔭 I’m currently working on functionUp
-- 🌱 I’m currently learning Java_script
+- 🔭 I’m currently working on Backend-Development
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with DSA-algo
 - 💬 Ask me about JS and any tech stuff
