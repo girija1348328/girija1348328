@@ -20,7 +20,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=girija1348328&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
      
-<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/girija1348328/output/github-contribution-grid-snake.svg" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girija1348328&layout=compact)](https://github.com/girija1348328/github-readme-stats)
 
@@ -32,12 +32,6 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girija1348328&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=girija1348328&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=girija1348328&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
