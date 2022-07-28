@@ -24,15 +24,20 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girija1348328&layout=compact)](https://github.com/girija1348328/github-readme-stats)
 
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=girija1348328&theme=minimal"/>
+</p>
+
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girija1348328&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=girija1348328&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=girija1348328&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
