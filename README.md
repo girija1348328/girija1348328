@@ -8,9 +8,6 @@
 - 📫 How to reach me: check social links below
 - ⚡ Fun fact: love to explore..!
 
-<img src = "https://github-readme-stats.vercel.app/api?username=girija1348328&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girija1348328&layout=compact)](https://github.com/girija1348328/github-readme-stats)
 
 
